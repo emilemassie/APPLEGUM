@@ -1,0 +1,4766 @@
+fileFormatVersion: 2
+guid: 7a003536d6f0548398caa9e6645aac08
+timeCreated: 1457057849
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Samus_complete_0
+    21300002: Samus_complete_1
+    21300004: Samus_complete_2
+    21300006: Samus_complete_3
+    21300008: Samus_complete_4
+    21300010: Samus_complete_5
+    21300012: Samus_complete_6
+    21300014: Samus_complete_7
+    21300016: Samus_complete_8
+    21300018: Samus_complete_9
+    21300020: Samus_complete_10
+    21300022: Samus_complete_11
+    21300024: Samus_complete_12
+    21300026: Samus_complete_13
+    21300028: Samus_complete_14
+    21300030: Samus_complete_15
+    21300032: Samus_complete_16
+    21300034: Samus_complete_17
+    21300036: Samus_complete_18
+    21300038: Samus_complete_19
+    21300040: Samus_complete_20
+    21300042: Samus_complete_21
+    21300044: Samus_complete_22
+    21300046: Samus_complete_23
+    21300048: Samus_complete_24
+    21300050: Samus_complete_25
+    21300052: Samus_complete_26
+    21300054: Samus_complete_27
+    21300056: Samus_complete_28
+    21300058: Samus_complete_29
+    21300060: Samus_complete_30
+    21300062: Samus_complete_31
+    21300064: Samus_complete_32
+    21300066: Samus_complete_33
+    21300068: Samus_complete_34
+    21300070: Samus_complete_35
+    21300072: Samus_complete_36
+    21300074: Samus_complete_37
+    21300076: Samus_complete_38
+    21300078: Samus_complete_39
+    21300080: Samus_complete_40
+    21300082: Samus_complete_41
+    21300084: Samus_complete_42
+    21300086: Samus_complete_43
+    21300088: Samus_complete_44
+    21300090: Samus_complete_45
+    21300092: Samus_complete_46
+    21300094: Samus_complete_47
+    21300096: Samus_complete_48
+    21300098: Samus_complete_49
+    21300100: Samus_complete_50
+    21300102: Samus_complete_51
+    21300104: Samus_complete_52
+    21300106: Samus_complete_53
+    21300108: Samus_complete_54
+    21300110: Samus_complete_55
+    21300112: Samus_complete_56
+    21300114: Samus_complete_57
+    21300116: Samus_complete_58
+    21300118: Samus_complete_59
+    21300120: Samus_complete_60
+    21300122: Samus_complete_61
+    21300124: Samus_complete_62
+    21300126: Samus_complete_63
+    21300128: Samus_complete_64
+    21300130: Samus_complete_65
+    21300132: Samus_complete_66
+    21300134: Samus_complete_67
+    21300136: Samus_complete_68
+    21300138: Samus_complete_69
+    21300140: Samus_complete_70
+    21300142: Samus_complete_71
+    21300144: Samus_complete_72
+    21300146: Samus_complete_73
+    21300148: Samus_complete_74
+    21300150: Samus_complete_75
+    21300152: Samus_complete_76
+    21300154: Samus_complete_77
+    21300156: Samus_complete_78
+    21300158: Samus_complete_79
+    21300160: Samus_complete_80
+    21300162: Samus_complete_81
+    21300164: Samus_complete_82
+    21300166: Samus_complete_83
+    21300168: Samus_complete_84
+    21300170: Samus_complete_85
+    21300172: Samus_complete_86
+    21300174: Samus_complete_87
+    21300176: Samus_complete_88
+    21300178: Samus_complete_89
+    21300180: Samus_complete_90
+    21300182: Samus_complete_91
+    21300184: Samus_complete_92
+    21300186: Samus_complete_93
+    21300188: Samus_complete_94
+    21300190: Samus_complete_95
+    21300192: Samus_complete_96
+    21300194: Samus_complete_97
+    21300196: Samus_complete_98
+    21300198: Samus_complete_99
+    21300200: Samus_complete_100
+    21300202: Samus_complete_101
+    21300204: Samus_complete_102
+    21300206: Samus_complete_103
+    21300208: Samus_complete_104
+    21300210: Samus_complete_105
+    21300212: Samus_complete_106
+    21300214: Samus_complete_107
+    21300216: Samus_complete_108
+    21300218: Samus_complete_109
+    21300220: Samus_complete_110
+    21300222: Samus_complete_111
+    21300224: Samus_complete_112
+    21300226: Samus_complete_113
+    21300228: Samus_complete_114
+    21300230: Samus_complete_115
+    21300232: Samus_complete_116
+    21300234: Samus_complete_117
+    21300236: Samus_complete_118
+    21300238: Samus_complete_119
+    21300240: Samus_complete_120
+    21300242: Samus_complete_121
+    21300244: Samus_complete_122
+    21300246: Samus_complete_123
+    21300248: Samus_complete_124
+    21300250: Samus_complete_125
+    21300252: Samus_complete_126
+    21300254: Samus_complete_127
+    21300256: Samus_complete_128
+    21300258: Samus_complete_129
+    21300260: Samus_complete_130
+    21300262: Samus_complete_131
+    21300264: Samus_complete_132
+    21300266: Samus_complete_133
+    21300268: Samus_complete_134
+    21300270: Samus_complete_135
+    21300272: Samus_complete_136
+    21300274: Samus_complete_137
+    21300276: Samus_complete_138
+    21300278: Samus_complete_139
+    21300280: Samus_complete_140
+    21300282: Samus_complete_141
+    21300284: Samus_complete_142
+    21300286: Samus_complete_143
+    21300288: Samus_complete_144
+    21300290: Samus_complete_145
+    21300292: Samus_complete_146
+    21300294: Samus_complete_147
+    21300296: Samus_complete_148
+    21300298: Samus_complete_149
+    21300300: Samus_complete_150
+    21300302: Samus_complete_151
+    21300304: Samus_complete_152
+    21300306: Samus_complete_153
+    21300308: Samus_complete_154
+    21300310: Samus_complete_155
+    21300312: Samus_complete_156
+    21300314: Samus_complete_157
+    21300316: Samus_complete_158
+    21300318: Samus_complete_159
+    21300320: Samus_complete_160
+    21300322: Samus_complete_161
+    21300324: Samus_complete_162
+    21300326: Samus_complete_163
+    21300328: Samus_complete_164
+    21300330: Samus_complete_165
+    21300332: Samus_complete_166
+    21300334: Samus_complete_167
+    21300336: Samus_complete_168
+    21300338: Samus_complete_169
+    21300340: Samus_complete_170
+    21300342: Samus_complete_171
+    21300344: Samus_complete_172
+    21300346: Samus_complete_173
+    21300348: Samus_complete_174
+    21300350: Samus_complete_175
+    21300352: Samus_complete_176
+    21300354: Samus_complete_177
+    21300356: Samus_complete_178
+    21300358: Samus_complete_179
+    21300360: Samus_complete_180
+    21300362: Samus_complete_181
+    21300364: Samus_complete_182
+    21300366: Samus_complete_183
+    21300368: Samus_complete_184
+    21300370: Samus_complete_185
+    21300372: Samus_complete_186
+    21300374: Samus_complete_187
+    21300376: Samus_complete_188
+    21300378: Samus_complete_189
+    21300380: Samus_complete_190
+    21300382: Samus_complete_191
+    21300384: Samus_complete_192
+    21300386: Samus_complete_193
+    21300388: Samus_complete_194
+    21300390: Samus_complete_195
+    21300392: Samus_complete_196
+    21300394: Samus_complete_197
+    21300396: Samus_complete_198
+    21300398: Samus_complete_199
+    21300400: Samus_complete_200
+    21300402: Samus_complete_201
+    21300404: Samus_complete_202
+    21300406: Samus_complete_203
+    21300408: Samus_complete_204
+    21300410: Samus_complete_205
+    21300412: Samus_complete_206
+    21300414: Samus_complete_207
+    21300416: Samus_complete_208
+    21300418: Samus_complete_209
+    21300420: Samus_complete_210
+    21300422: Samus_complete_211
+    21300424: Samus_complete_212
+    21300426: Samus_complete_213
+    21300428: Samus_complete_214
+    21300430: Samus_complete_215
+    21300432: Samus_complete_216
+    21300434: Samus_complete_217
+    21300436: Samus_complete_218
+    21300438: Samus_complete_219
+    21300440: Samus_complete_220
+    21300442: Samus_complete_221
+    21300444: Samus_complete_222
+    21300446: Samus_complete_223
+    21300448: Samus_complete_224
+    21300450: Samus_complete_225
+    21300452: Samus_complete_226
+    21300454: Samus_complete_227
+    21300456: Samus_complete_228
+    21300458: Samus_complete_229
+    21300460: Samus_complete_230
+    21300462: Samus_complete_231
+    21300464: Samus_complete_232
+    21300466: Samus_complete_233
+    21300468: Samus_complete_234
+    21300470: Samus_complete_235
+    21300472: Samus_complete_236
+    21300474: Samus_complete_237
+    21300476: Samus_complete_238
+    21300478: Samus_complete_239
+    21300480: Samus_complete_240
+    21300482: Samus_complete_241
+    21300484: Samus_complete_242
+    21300486: Samus_complete_243
+    21300488: Samus_complete_244
+    21300490: Samus_complete_245
+    21300492: Samus_complete_246
+    21300494: Samus_complete_247
+    21300496: Samus_complete_248
+    21300498: Samus_complete_249
+    21300500: Samus_complete_250
+    21300502: Samus_complete_251
+    21300504: Samus_complete_252
+    21300506: Samus_complete_253
+    21300508: Samus_complete_254
+    21300510: Samus_complete_255
+    21300512: Samus_complete_256
+    21300514: Samus_complete_257
+    21300516: Samus_complete_258
+    21300518: Samus_complete_259
+    21300520: Samus_complete_260
+    21300522: Samus_complete_261
+    21300524: Samus_complete_262
+    21300526: Samus_complete_263
+    21300528: Samus_complete_264
+    21300530: Samus_complete_265
+    21300532: Samus_complete_266
+    21300534: Samus_complete_267
+    21300536: Samus_complete_268
+    21300538: Samus_complete_269
+    21300540: Samus_complete_270
+    21300542: Samus_complete_271
+    21300544: Samus_complete_272
+    21300546: Samus_complete_273
+    21300548: Samus_complete_274
+    21300550: Samus_complete_275
+    21300552: Samus_complete_276
+    21300554: Samus_complete_277
+    21300556: Samus_complete_278
+    21300558: Samus_complete_279
+    21300560: Samus_complete_280
+    21300562: Samus_complete_281
+    21300564: Samus_complete_282
+    21300566: Samus_complete_283
+    21300568: Samus_complete_284
+    21300570: Samus_complete_285
+    21300572: Samus_complete_286
+    21300574: Samus_complete_287
+    21300576: Samus_complete_288
+    21300578: Samus_complete_289
+    21300580: Samus_complete_290
+    21300582: Samus_complete_291
+    21300584: Samus_complete_292
+    21300586: Samus_complete_293
+    21300588: Samus_complete_294
+    21300590: Samus_complete_295
+    21300592: Samus_complete_296
+    21300594: Samus_complete_297
+    21300596: Samus_complete_298
+    21300598: Samus_complete_299
+    21300600: Samus_complete_300
+    21300602: Samus_complete_301
+    21300604: Samus_complete_302
+    21300606: Samus_complete_303
+    21300608: Samus_complete_304
+    21300610: Samus_complete_305
+    21300612: Samus_complete_306
+    21300614: Samus_complete_307
+    21300616: Samus_complete_308
+    21300618: Samus_complete_309
+    21300620: Samus_complete_310
+    21300622: Samus_complete_311
+    21300624: Samus_complete_312
+    21300626: Samus_complete_313
+    21300628: Samus_complete_314
+    21300630: Samus_complete_315
+    21300632: Samus_complete_316
+    21300634: Samus_complete_317
+    21300636: Samus_complete_318
+    21300638: Samus_complete_319
+    21300640: Samus_complete_320
+    21300642: Samus_complete_321
+    21300644: Samus_complete_322
+    21300646: Samus_complete_323
+    21300648: Samus_complete_324
+    21300650: Samus_complete_325
+    21300652: Samus_complete_326
+    21300654: Samus_complete_327
+    21300656: Samus_complete_328
+    21300658: Samus_complete_329
+    21300660: Samus_complete_330
+    21300662: Samus_complete_331
+    21300664: Samus_complete_332
+    21300666: Samus_complete_333
+    21300668: Samus_complete_334
+    21300670: Samus_complete_335
+    21300672: Samus_complete_336
+    21300674: Samus_complete_337
+    21300676: Samus_complete_338
+    21300678: Samus_complete_339
+    21300680: Samus_complete_340
+    21300682: Samus_complete_341
+    21300684: Samus_complete_342
+    21300686: Samus_complete_343
+    21300688: Samus_complete_344
+    21300690: Samus_complete_345
+    21300692: Samus_complete_346
+    21300694: Samus_complete_347
+    21300696: Samus_complete_348
+    21300698: Samus_complete_349
+    21300700: Samus_complete_350
+    21300702: Samus_complete_351
+    21300704: Samus_complete_352
+    21300706: Samus_complete_353
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Samus_complete_0
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 750
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 753
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 741
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 709
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 709
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 709
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 713
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 739
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 713
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 713
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 713
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_11
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 713
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 713
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 709
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 709
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 709
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 709
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 709
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 709
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 709
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 709
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 733
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 735
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 731
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_24
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 731
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_25
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 731
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_26
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 714
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_27
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 714
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_28
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 714
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_29
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 714
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_30
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 714
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_31
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 714
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_32
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 714
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_33
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 714
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_34
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 713
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_35
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 714
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_36
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 714
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_37
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 714
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 724
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 724
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 724
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_41
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 714
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_42
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 714
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_43
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 713
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_44
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 714
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 712
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_46
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 712
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 712
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_48
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 711
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_49
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 714
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 655
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 655
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 655
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 655
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_55
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_57
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 655
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 655
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_59
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_60
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_61
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 655
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 653
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_63
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 653
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_64
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 653
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_65
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 653
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_66
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 653
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_67
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 653
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_68
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 653
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_69
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 653
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_70
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 653
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_71
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 653
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_72
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 614
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -14.5}
+        - {x: -108, y: -14.5}
+        - {x: -108, y: -31.5}
+        - {x: -105, y: -34.5}
+        - {x: -63, y: -34.5}
+        - {x: -60, y: -31.5}
+        - {x: -60, y: -19.5}
+      - - {x: -120, y: 34.5}
+        - {x: -120, y: 12.5}
+        - {x: -88, y: -34.5}
+        - {x: 120, y: -34.5}
+        - {x: 120, y: 34.5}
+    - name: Samus_complete_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 594
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_74
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 594
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 594
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_76
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 594
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_77
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 594
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 594
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_79
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 594
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_80
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 594
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_81
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_82
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_83
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_84
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 594
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_85
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 594
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_86
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_87
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_88
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 594
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_89
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 601
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_90
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 601
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_91
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 602
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_92
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 602
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_93
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 602
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_94
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 602
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_95
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 602
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_96
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 601
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_97
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 600
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_98
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 538
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 538
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_100
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 538
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_101
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 538
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_102
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 538
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_103
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 538
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_104
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 538
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_105
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 538
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_106
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 538
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_107
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 538
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_108
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 538
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 538
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_110
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_111
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_112
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_113
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_114
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_115
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_116
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_117
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 538
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_118
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 543
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_119
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 543
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_120
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 550
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_121
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 550
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_122
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_123
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_124
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_125
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 552
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_126
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 551
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_127
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 551
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_128
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 551
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_129
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 552
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_130
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 552
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_131
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 552
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_132
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 552
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_133
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 552
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_134
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 552
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_135
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 552
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_136
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 552
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_137
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 552
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_138
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 552
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 476
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_140
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 476
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_141
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 476
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_142
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 476
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_143
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 476
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_144
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 476
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_145
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 476
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 476
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_147
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 476
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_148
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 476
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_149
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 476
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 476
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_151
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 476
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_152
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 476
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_153
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 476
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_154
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 476
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_155
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 476
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_156
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 476
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_157
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 476
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_158
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 476
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_159
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 465
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_160
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 465
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_161
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 465
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_162
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 465
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_163
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 465
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_164
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 465
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_165
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 465
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_166
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 465
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_167
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 465
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_168
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 465
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_169
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 465
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_170
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 465
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_171
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 465
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_172
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 415
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_173
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 415
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_174
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 415
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 17.5}
+        - {x: -12, y: 17.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -6.5}
+        - {x: -9, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 3.5}
+        - {x: 13, y: 16.5}
+    - name: Samus_complete_175
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 415
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 17.5}
+        - {x: -15.5, y: 17.5}
+        - {x: -17.5, y: 16.5}
+        - {x: -17.5, y: -10.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 5.5, y: -17.5}
+        - {x: 17.5, y: -12.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 15.5, y: -0.5}
+    - name: Samus_complete_176
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 415
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_177
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 415
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_178
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 415
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_179
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 415
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 17.5}
+        - {x: -8.5, y: 17.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -1.5}
+        - {x: -11.5, y: -17.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 16.5, y: -1.5}
+        - {x: 9.5, y: 14.5}
+    - name: Samus_complete_180
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 415
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17.5}
+        - {x: -18, y: 15.5}
+        - {x: -18, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 18, y: -13.5}
+        - {x: 18, y: 5.5}
+        - {x: 10, y: 17.5}
+    - name: Samus_complete_181
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 415
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -17.5}
+        - {x: 8, y: -17.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 7.5}
+        - {x: 13, y: 17.5}
+        - {x: -11, y: 17.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -6.5}
+    - name: Samus_complete_182
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 415
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_183
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 415
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_184
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 415
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 17.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 8.5, y: -17.5}
+        - {x: 16.5, y: -6.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 9.5, y: 17.5}
+    - name: Samus_complete_185
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 415
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 17.5}
+        - {x: -11, y: 15.5}
+        - {x: -18, y: 3.5}
+        - {x: -18, y: -12.5}
+        - {x: -6, y: -17.5}
+        - {x: 18, y: -17.5}
+        - {x: 18, y: 15.5}
+        - {x: 16, y: 17.5}
+    - name: Samus_complete_186
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 415
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17.5}
+        - {x: -11, y: 15.5}
+        - {x: -16, y: 3.5}
+        - {x: -16, y: -14.5}
+        - {x: -8, y: -17.5}
+        - {x: 11, y: -17.5}
+        - {x: 15, y: -12.5}
+        - {x: 16, y: -9.5}
+        - {x: 16, y: 17.5}
+    - name: Samus_complete_187
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 415
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_188
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 415
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_189
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 415
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17.5}
+        - {x: -13, y: 15.5}
+        - {x: -16, y: 4.5}
+        - {x: -16, y: -17.5}
+        - {x: 10, y: -17.5}
+        - {x: 16, y: -2.5}
+        - {x: 16, y: 13.5}
+        - {x: 12, y: 17.5}
+    - name: Samus_complete_190
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 415
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17.5}
+        - {x: -17.5, y: 3.5}
+        - {x: -17.5, y: -14.5}
+        - {x: -10.5, y: -17.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 17.5, y: -15.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 14.5, y: 17.5}
+    - name: Samus_complete_191
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 415
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_192
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 406
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_193
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 406
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_194
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 406
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_195
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 406
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_196
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 407
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_197
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 407
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_198
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 407
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_199
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 407
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_200
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 407
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_201
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 407
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_202
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 407
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_203
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 407
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_204
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 407
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_205
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 354
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_206
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 354
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_207
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 354
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_208
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 354
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 10.5}
+        - {x: 3, y: 18.5}
+        - {x: -17, y: 18.5}
+        - {x: -17, y: -10.5}
+        - {x: -15, y: -18.5}
+        - {x: 17, y: -18.5}
+        - {x: 17, y: -3.5}
+        - {x: 15, y: -1.5}
+    - name: Samus_complete_209
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 354
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_210
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 354
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_211
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 354
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_212
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 354
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18.5}
+        - {x: -16, y: -5.5}
+        - {x: -12, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: 18.5}
+    - name: Samus_complete_213
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 354
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 18.5}
+        - {x: -17, y: 18.5}
+        - {x: -17, y: -18.5}
+        - {x: 4, y: -18.5}
+        - {x: 17, y: -13.5}
+        - {x: 17, y: 4.5}
+        - {x: 11, y: 14.5}
+    - name: Samus_complete_214
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 354
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_215
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 354
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_216
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 354
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_217
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 354
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_218
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 354
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18.5}
+        - {x: -17, y: 17.5}
+        - {x: -17, y: -17.5}
+        - {x: -13, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 15, y: -12.5}
+        - {x: 17, y: 2.5}
+        - {x: 17, y: 18.5}
+    - name: Samus_complete_219
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 354
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_220
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 354
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_221
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 354
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_222
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 354
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18.5}
+        - {x: -16, y: 1.5}
+        - {x: -16, y: -18.5}
+        - {x: 0, y: -18.5}
+        - {x: 8, y: -16.5}
+        - {x: 16, y: 7.5}
+        - {x: 16, y: 18.5}
+    - name: Samus_complete_223
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 354
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 18.5}
+        - {x: -17, y: 4.5}
+        - {x: -17, y: -12.5}
+        - {x: -15, y: -12.5}
+        - {x: -3, y: -18.5}
+        - {x: 15, y: -18.5}
+        - {x: 17, y: -14.5}
+        - {x: 17, y: 18.5}
+    - name: Samus_complete_224
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 354
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_225
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 350
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_226
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 350
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_227
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 350
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_228
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 350
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_229
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 350
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_230
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 350
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_231
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 350
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_232
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 350
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_233
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 350
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19}
+        - {x: -16.5, y: -19}
+        - {x: 6.5, y: -19}
+        - {x: 16.5, y: -4}
+        - {x: 16.5, y: 14}
+        - {x: -0.5, y: 19}
+    - name: Samus_complete_234
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 350
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_235
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 350
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_236
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 350
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_237
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 350
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_238
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 298
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_239
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 298
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_240
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 298
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_241
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 298
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 17.5}
+        - {x: -11.5, y: 17.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -3.5, y: -17.5}
+        - {x: -2.5, y: -16.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: -0.5}
+    - name: Samus_complete_242
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 298
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_243
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 298
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_244
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 298
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_245
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 298
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_246
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 298
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17.5}
+        - {x: -17, y: 13.5}
+        - {x: -17, y: -14.5}
+        - {x: -15, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 17, y: 9.5}
+        - {x: 13, y: 17.5}
+    - name: Samus_complete_247
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 298
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_248
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 298
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_249
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 298
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_250
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 298
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_251
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 298
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 17.5}
+        - {x: -7.5, y: 17.5}
+        - {x: -16.5, y: 3.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -8.5, y: -17.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 11.5, y: 16.5}
+    - name: Samus_complete_252
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 298
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_253
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 298
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_254
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 298
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_255
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 298
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_256
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 298
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -11.5}
+        - {x: -15, y: -11.5}
+        - {x: -3, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 17, y: 17.5}
+        - {x: -6, y: 17.5}
+        - {x: -17, y: 4.5}
+    - name: Samus_complete_257
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 298
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_258
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 291
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_259
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 291
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_260
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 291
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_261
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 291
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_262
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 291
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_263
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 291
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_264
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 291
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_265
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 291
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_266
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 291
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 7.5}
+        - {x: -17, y: -13.5}
+        - {x: 4, y: -19.5}
+        - {x: 17, y: -19.5}
+        - {x: 17, y: 19.5}
+        - {x: 7, y: 19.5}
+        - {x: 0, y: 16.5}
+    - name: Samus_complete_267
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 291
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_268
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 291
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_269
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 291
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_270
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 291
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_271
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 237
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_272
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 237
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_273
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 237
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_274
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 237
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_275
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 237
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_276
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 237
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_277
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 237
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_278
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 237
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_279
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 237
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_280
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 237
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_281
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 239
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_282
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 237
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_283
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 237
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_284
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 237
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_285
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 217
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_286
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 217
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_287
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 217
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_288
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 216
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_289
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 216
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_290
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 216
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_291
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 216
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_292
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 216
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_293
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 216
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_294
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 216
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_295
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 216
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_296
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 216
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_297
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 216
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_298
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 179
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_299
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 179
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_300
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 179
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_301
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 179
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_302
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 179
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_303
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 179
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_304
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 179
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_305
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 179
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_306
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 179
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_307
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 179
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_308
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 179
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_309
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 179
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_310
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 179
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_311
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 179
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_312
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 151
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_313
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 151
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_314
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 151
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_315
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 151
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_316
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 151
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_317
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 151
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_318
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 151
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_319
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 151
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_320
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 151
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_321
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 151
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_322
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 151
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_323
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 151
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_324
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 151
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_325
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_326
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 130
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_327
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 130
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_328
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 130
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_329
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 130
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_330
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 130
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_331
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 130
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_332
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 130
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_333
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 130
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_334
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 130
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_335
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 130
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_336
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 130
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_337
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 130
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_338
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 130
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_339
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 67
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_340
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 67
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_341
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_342
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 67
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_343
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 67
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_344
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 67
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_345
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 67
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_346
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 67
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_347
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 67
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_348
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 67
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_349
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 72
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_350
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 67
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_351
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 67
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_352
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 67
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Samus_complete_353
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1300
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -650, y: 29.5}
+        - {x: -650, y: -29.5}
+        - {x: 566, y: -29.5}
+        - {x: 650, y: -23.5}
+        - {x: 650, y: 29.5}
+      - - {x: -646, y: 25.5}
+        - {x: 546, y: -5.5}
+        - {x: 551, y: -25.5}
+        - {x: -646, y: -25.5}
+      - - {x: -603, y: -11.5}
+        - {x: -606, y: 9.5}
+        - {x: -614, y: 14.5}
+        - {x: -627, y: 14.5}
+        - {x: -633, y: 6.5}
+        - {x: -633, y: -13.5}
+        - {x: -630, y: -25.5}
+        - {x: -605, y: -25.5}
+        - {x: -603, y: -24.5}
+      - - {x: -569, y: 13.5}
+        - {x: -584, y: 13.5}
+        - {x: -590, y: -2.5}
+        - {x: -590, y: -25.5}
+        - {x: -568, y: -25.5}
+        - {x: -565, y: -24.5}
+        - {x: -559, y: -7.5}
+        - {x: -559, y: 2.5}
+      - - {x: -516, y: 16.5}
+        - {x: -532, y: 16.5}
+        - {x: -546, y: 9.5}
+        - {x: -546, y: -24.5}
+        - {x: -545, y: -25.5}
+        - {x: -519, y: -25.5}
+        - {x: -515, y: 0.5}
+        - {x: -515, y: 15.5}
+      - - {x: -475, y: -25.5}
+        - {x: -475, y: -8.5}
+        - {x: -480, y: 14.5}
+        - {x: -487, y: 16.5}
+        - {x: -506, y: 16.5}
+        - {x: -506, y: -6.5}
+        - {x: -505, y: -9.5}
+        - {x: -499, y: -25.5}
+        - {x: -489, y: -25.5}
+        - {x: -486, y: -24.5}
+        - {x: -487, y: -24.5}
+        - {x: -484, y: -25.5}
+      - - {x: -453, y: 14.5}
+        - {x: -463, y: -3.5}
+        - {x: -463, y: -14.5}
+        - {x: -458, y: -25.5}
+        - {x: -432, y: -25.5}
+        - {x: -432, y: 9.5}
+        - {x: -441, y: 14.5}
+      - - {x: -398, y: 13.5}
+        - {x: -407, y: 13.5}
+        - {x: -415, y: 10.5}
+        - {x: -421, y: -13.5}
+        - {x: -421, y: -25.5}
+        - {x: -395, y: -25.5}
+        - {x: -390, y: -13.5}
+        - {x: -390, y: 2.5}
+      - - {x: -368, y: 4.5}
+        - {x: -373, y: -8.5}
+        - {x: -373, y: -25.5}
+        - {x: -350, y: -25.5}
+        - {x: -350, y: -8.5}
+        - {x: -355, y: 4.5}
+      - - {x: -328, y: 5.5}
+        - {x: -338, y: -5.5}
+        - {x: -338, y: -14.5}
+        - {x: -334, y: -25.5}
+        - {x: -311, y: -25.5}
+        - {x: -310, y: -24.5}
+        - {x: -310, y: -6.5}
+        - {x: -315, y: 5.5}
+      - - {x: -303, y: -7.5}
+        - {x: -300, y: -24.5}
+        - {x: -299, y: -25.5}
+        - {x: -274, y: -25.5}
+        - {x: -274, y: -4.5}
+        - {x: -277, y: 6.5}
+        - {x: -297, y: 8.5}
+        - {x: -300, y: 8.5}
+        - {x: -303, y: 7.5}
+      - - {x: -239, y: 8.5}
+        - {x: -247, y: 8.5}
+        - {x: -254, y: 5.5}
+        - {x: -263, y: 2.5}
+        - {x: -263, y: -25.5}
+        - {x: -241, y: -25.5}
+        - {x: -240, y: -23.5}
+        - {x: -235, y: 0.5}
+        - {x: -235, y: 6.5}
+      - - {x: -215, y: 4.5}
+        - {x: -221, y: 1.5}
+        - {x: -223, y: -4.5}
+        - {x: -223, y: -9.5}
+        - {x: -225, y: -16.5}
+        - {x: -226, y: -19.5}
+        - {x: -226, y: -23.5}
+        - {x: -224, y: -25.5}
+        - {x: -202, y: -25.5}
+        - {x: -196, y: -22.5}
+        - {x: -196, y: -11.5}
+        - {x: -202, y: 4.5}
+      - - {x: -166, y: 4.5}
+        - {x: -181, y: 4.5}
+        - {x: -186, y: -5.5}
+        - {x: -186, y: -18.5}
+        - {x: -179, y: -25.5}
+        - {x: -157, y: -25.5}
+        - {x: -156, y: -23.5}
+        - {x: -156, y: -12.5}
+        - {x: -162, y: 2.5}
+      - - {x: -137, y: 23.5}
+        - {x: -147, y: 15.5}
+        - {x: -147, y: -25.5}
+        - {x: -123, y: -25.5}
+        - {x: -123, y: 22.5}
+        - {x: -126, y: 23.5}
+      - - {x: -85, y: -25.5}
+        - {x: -85, y: 18.5}
+        - {x: -93, y: 23.5}
+        - {x: -106, y: 23.5}
+        - {x: -108, y: 22.5}
+        - {x: -109, y: 18.5}
+        - {x: -109, y: -25.5}
+        - {x: -99, y: -25.5}
+        - {x: -96, y: -24.5}
+        - {x: -97, y: -24.5}
+        - {x: -94, y: -25.5}
+      - - {x: -64, y: 25.5}
+        - {x: -77, y: 6.5}
+        - {x: -77, y: 2.5}
+        - {x: -75, y: -2.5}
+        - {x: -70, y: -24.5}
+        - {x: -65, y: -25.5}
+        - {x: -57, y: -25.5}
+        - {x: -53, y: -21.5}
+        - {x: -52, y: -14.5}
+        - {x: -52, y: 25.5}
+      - - {x: -24, y: 23.5}
+        - {x: -27, y: 24.5}
+        - {x: -36, y: 24.5}
+        - {x: -45, y: 6.5}
+        - {x: -45, y: -10.5}
+        - {x: -39, y: -24.5}
+        - {x: -36, y: -25.5}
+        - {x: -28, y: -25.5}
+        - {x: -23, y: -23.5}
+        - {x: -22, y: -11.5}
+        - {x: -22, y: 16.5}
+      - - {x: -8, y: 24.5}
+        - {x: -10, y: 17.5}
+        - {x: -10, y: -20.5}
+        - {x: -6, y: -23.5}
+        - {x: 0, y: -25.5}
+        - {x: 6, y: -25.5}
+        - {x: 8, y: -24.5}
+        - {x: 8, y: 24.5}
+      - - {x: 31, y: 25.5}
+        - {x: 25, y: 25.5}
+        - {x: 20, y: 14.5}
+        - {x: 20, y: -6.5}
+        - {x: 21, y: -21.5}
+        - {x: 26, y: -25.5}
+        - {x: 35, y: -25.5}
+        - {x: 39, y: -24.5}
+        - {x: 46, y: 0.5}
+        - {x: 46, y: 6.5}
+        - {x: 35, y: 23.5}
+      - - {x: 59, y: 24.5}
+        - {x: 54, y: 19.5}
+        - {x: 54, y: -17.5}
+        - {x: 57, y: -25.5}
+        - {x: 74, y: -25.5}
+        - {x: 78, y: -7.5}
+        - {x: 78, y: 3.5}
+        - {x: 66, y: 24.5}
+      - - {x: 92, y: 24.5}
+        - {x: 89, y: 18.5}
+        - {x: 87, y: 8.5}
+        - {x: 87, y: -22.5}
+        - {x: 89, y: -25.5}
+        - {x: 97, y: -25.5}
+        - {x: 98, y: -24.5}
+        - {x: 105, y: -16.5}
+        - {x: 105, y: 20.5}
+        - {x: 104, y: 24.5}
+      - - {x: 121, y: -8.5}
+        - {x: 136, y: -25.5}
+        - {x: 158, y: -25.5}
+        - {x: 158, y: 17.5}
+        - {x: 148, y: 17.5}
+        - {x: 121, y: 6.5}
+      - - {x: 188, y: 16.5}
+        - {x: 179, y: 19.5}
+        - {x: 171, y: 19.5}
+        - {x: 171, y: -7.5}
+        - {x: 174, y: -25.5}
+        - {x: 194, y: -25.5}
+        - {x: 194, y: 16.5}
+        - {x: 192, y: 17.5}
+      - - {x: 203, y: 8.5}
+        - {x: 203, y: 4.5}
+        - {x: 221, y: -25.5}
+        - {x: 233, y: -25.5}
+        - {x: 235, y: -24.5}
+        - {x: 235, y: 17.5}
+        - {x: 217, y: 17.5}
+        - {x: 204, y: 13.5}
+      - - {x: 262, y: 17.5}
+        - {x: 244, y: -0.5}
+        - {x: 244, y: -13.5}
+        - {x: 264, y: -25.5}
+        - {x: 277, y: -25.5}
+        - {x: 277, y: 17.5}
+      - - {x: 296, y: 16.5}
+        - {x: 289, y: 8.5}
+        - {x: 289, y: -16.5}
+        - {x: 296, y: -25.5}
+        - {x: 312, y: -25.5}
+        - {x: 312, y: 16.5}
+      - - {x: 330, y: 16.5}
+        - {x: 330, y: -24.5}
+        - {x: 334, y: -25.5}
+        - {x: 346, y: -25.5}
+        - {x: 366, y: -9.5}
+        - {x: 366, y: 11.5}
+        - {x: 345, y: 16.5}
+      - - {x: 378, y: 19.5}
+        - {x: 377, y: 18.5}
+        - {x: 377, y: -24.5}
+        - {x: 381, y: -25.5}
+        - {x: 390, y: -25.5}
+        - {x: 392, y: -23.5}
+        - {x: 400, y: -2.5}
+        - {x: 400, y: 19.5}
+      - - {x: 421, y: 16.5}
+        - {x: 415, y: 16.5}
+        - {x: 415, y: -24.5}
+        - {x: 419, y: -25.5}
+        - {x: 428, y: -25.5}
+        - {x: 447, y: 1.5}
+        - {x: 447, y: 14.5}
+      - - {x: 479, y: 13.5}
+        - {x: 473, y: 16.5}
+        - {x: 460, y: 16.5}
+        - {x: 460, y: -25.5}
+        - {x: 475, y: -25.5}
+        - {x: 490, y: -15.5}
+        - {x: 492, y: -10.5}
+        - {x: 492, y: -2.5}
+      - - {x: 515, y: 16.5}
+        - {x: 505, y: 16.5}
+        - {x: 505, y: -25.5}
+        - {x: 524, y: -25.5}
+        - {x: 528, y: -13.5}
+        - {x: 528, y: 6.5}
+        - {x: 524, y: 10.5}
+      - - {x: 613, y: 1.5}
+        - {x: 609, y: 0.5}
+        - {x: 605, y: 0.5}
+        - {x: 609, y: 0.5}
+        - {x: 613, y: 1.5}
+        - {x: 615, y: 3.5}
+        - {x: 616, y: 10.5}
+        - {x: 616, y: 13.5}
+        - {x: 569, y: 13.5}
+        - {x: 569, y: -0.5}
+        - {x: 583, y: -9.5}
+        - {x: 627, y: -9.5}
+        - {x: 630, y: -6.5}
+        - {x: 629, y: -1.5}
+        - {x: 627, y: 0.5}
+      - - {x: 619, y: 12.5}
+        - {x: 616, y: 10.5}
+        - {x: 616, y: 3.5}
+        - {x: 617, y: 0.5}
+        - {x: 641, y: 0.5}
+        - {x: 643, y: 3.5}
+        - {x: 643, y: 9.5}
+        - {x: 642, y: 12.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 1e29e519b32437a4581bd0270b9c2a53
+timeCreated: 1457145366
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Complete sheme_0
+    21300002: Complete sheme_1
+    21300004: Complete sheme_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Complete sheme_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 380
+        width: 77
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -140.5}
+        - {x: -28.5, y: -142.5}
+        - {x: -4.5, y: -142.5}
+        - {x: -4.5, y: -140.5}
+        - {x: -6.5, y: -138.5}
+        - {x: -27.5, y: -138.5}
+      - - {x: -23.5, y: 142.5}
+        - {x: -38.5, y: 126.5}
+        - {x: -38.5, y: 74.5}
+        - {x: -22.5, y: 65.5}
+        - {x: 32.5, y: 65.5}
+        - {x: 38.5, y: 73.5}
+        - {x: 38.5, y: 126.5}
+        - {x: 31.5, y: 142.5}
+    - name: Complete sheme_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 221
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: 264}
+        - {x: 52.5, y: 263}
+        - {x: 8.5, y: 259}
+        - {x: -12.5, y: 254}
+        - {x: -38.5, y: 248}
+        - {x: -55.5, y: 243}
+        - {x: -79.5, y: 233}
+        - {x: -86.5, y: 228}
+        - {x: -90.5, y: 220}
+        - {x: -90.5, y: 191}
+        - {x: -88.5, y: 174}
+        - {x: -88.5, y: 152}
+        - {x: -92.5, y: 140}
+        - {x: -91.5, y: 133}
+        - {x: -93.5, y: 119}
+        - {x: -93.5, y: 116}
+        - {x: -90.5, y: 106}
+        - {x: -89.5, y: 78}
+        - {x: -88.5, y: 68}
+        - {x: -87.5, y: 47}
+        - {x: -86.5, y: 27}
+        - {x: -90.5, y: 17}
+        - {x: -92.5, y: -3}
+        - {x: -91.5, y: -40}
+        - {x: -90.5, y: -52}
+        - {x: -88.5, y: -65}
+        - {x: -86.5, y: -76}
+        - {x: -84.5, y: -84}
+        - {x: -85.5, y: -110}
+        - {x: -83.5, y: -132}
+        - {x: -88.5, y: -155}
+        - {x: -89.5, y: -160}
+        - {x: -86.5, y: -163}
+        - {x: -83.5, y: -162}
+        - {x: -83.5, y: -264}
+        - {x: 110.5, y: -264}
+        - {x: 110.5, y: 264}
+      - - {x: -107.5, y: -52}
+        - {x: -107.5, y: -49}
+        - {x: -110.5, y: -48}
+        - {x: -110.5, y: -53}
+      - - {x: -91.5, y: 30}
+        - {x: -89.5, y: 28}
+        - {x: -86.5, y: 29}
+        - {x: -86.5, y: 32}
+        - {x: -88.5, y: 34}
+        - {x: -91.5, y: 33}
+    - name: Complete sheme_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 197
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.5, y: 69.5}
+        - {x: -98.5, y: 67.5}
+        - {x: -98.5, y: -53.5}
+        - {x: -85.5, y: -69.5}
+        - {x: 15.5, y: -69.5}
+        - {x: 98.5, y: -50.5}
+        - {x: 98.5, y: 60.5}
+        - {x: 78.5, y: 69.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

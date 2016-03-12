@@ -1,0 +1,34 @@
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/obj/Debug/Assembly-CSharp.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/UnityEngine.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/UnityEditor.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Daniele/Desktop/SampleGame/SampeGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/obj/Debug/Assembly-CSharp.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/UnityEngine.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/UnityEditor.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Emile/Google Drive/Programing/SampleGame/SampleGame/AppleGum/Temp/bin/Debug/Mono.Cecil.Mdb.dll
