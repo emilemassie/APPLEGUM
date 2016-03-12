@@ -1,7 +1,7 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleGum.CSharp", "AppleGum.CSharp.csproj", "{EFBC2795-3693-0ED1-0FF3-B7B472C5B7CD}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8B0127F7-F2F9-5085-7B6D-6336B7080C1E}") = "AppleGum", "Assembly-CSharp.csproj", "{FDF95E8D-0F24-B875-3562-5AE56B1310E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFBC2795-3693-0ED1-0FF3-B7B472C5B7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFBC2795-3693-0ED1-0FF3-B7B472C5B7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFBC2795-3693-0ED1-0FF3-B7B472C5B7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFBC2795-3693-0ED1-0FF3-B7B472C5B7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF95E8D-0F24-B875-3562-5AE56B1310E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF95E8D-0F24-B875-3562-5AE56B1310E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF95E8D-0F24-B875-3562-5AE56B1310E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF95E8D-0F24-B875-3562-5AE56B1310E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
