@@ -51,8 +51,7 @@ public class Player : MonoBehaviour {
                 PlayerAnim.SetBool("jumped", jumped);
             } 
 			else 
-			{ 
-                  
+			{
 				if (canDoubleJump) 
 				{
 					canDoubleJump = false;
@@ -66,7 +65,7 @@ public class Player : MonoBehaviour {
         if (grounded)
         {
             jumped = false;
-//            PlayerAnim.SetBool("jumped", jumped);
+            PlayerAnim.SetBool("jumped", jumped);
         }
 	}
 
